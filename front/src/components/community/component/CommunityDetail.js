@@ -163,7 +163,7 @@ function CommunityDetail({}) {
               </Link>
             </Col>
           )}
-
+          {console.log(datas)}
           <Row>
             <Col span={10}>
               <div className="community-detail-main">
