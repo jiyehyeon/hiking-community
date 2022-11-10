@@ -1,4 +1,5 @@
-#⛰ 나와 지구를 위한 등산 커뮤니티, 클린 하이커스
+> ## ⛰ 등산 커뮤니티 "클린 하이커스"
+
 ![](./preview.gif)
 
 ---
@@ -15,14 +16,12 @@
 
 [5. 프로토타입](#5-프로토타입)
 
----
-
 ### 1. 개요
 
 등산로 공공데이터를 활용하여 등산로의 쓰레기량 및 등산 난이도와 관련된 정보를 제공하고,
 일반인이 운동 및 선행 목적으로 쓰레기를 주우며 등산하는 활동에 참여할 수 있도록 독려하는 서비스입니다.
 
-#### 2. 기술스택
+### 2. 기술스택
 
 - front
   - React
@@ -52,9 +51,6 @@
 - data
   - `d3-scale`: 선형 스케일링 라이브러리
   - `react-tooltip`: hover시 사용할 효과 라이브러리
-  - `d3-geo`
-  - `strip-ansi`
-  - `web-vitals`
 
 ### 4. 주요 기능
 
@@ -72,6 +68,6 @@
   - 데이터셋 기반으로 한 쓰레기 처리량 수치가 높은 산 추천
   - 등산 난이도, 지역별 산 검색
 
-## 5. 프로토타입
+### 5. 프로토타입
 
-🔗 [프로토타입(figma)](https://www.figma.com/file/gTNTHKNp00bQgPAOetsWbJ/%EC%97%98%EB%A6%AC%EC%8A%A4-AI%ED%8A%B8%EB%9E%99-5%EA%B8%B0-2%EC%B0%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-10%ED%8C%80?node-id=2%3A3)
+🔗 [바로가기](https://www.figma.com/file/gTNTHKNp00bQgPAOetsWbJ/%EC%97%98%EB%A6%AC%EC%8A%A4-AI%ED%8A%B8%EB%9E%99-5%EA%B8%B0-2%EC%B0%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-10%ED%8C%80?node-id=2%3A3)
